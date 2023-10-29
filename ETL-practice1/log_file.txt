@@ -1,0 +1,33 @@
+2023-10-29 14:04:49.097780 - ETL process Begin
+2023-10-29 14:04:49.097850 - --------------------
+2023-10-29 14:04:49.097880 - Data Extraction Begin
+2023-10-29 14:05:11.786593 - ETL process Begin
+2023-10-29 14:05:11.786773 - --------------------
+2023-10-29 14:05:11.786815 - Data Extraction Begin
+2023-10-29 14:05:11.808541 - Data Extraction Complete
+2023-10-29 14:05:11.808600 - Data Transformation Begin
+2023-10-29 14:05:11.812416 - Data Transformation Complete
+2023-10-29 14:05:11.812453 - Data Loading Begin
+2023-10-29 14:05:11.813223 - Data Loading Complete
+2023-10-29 14:05:11.813251 - ETL process Complete
+2023-10-29 14:05:11.813276 - --------------------
+2023-10-29 14:05:33.945276 - ETL process Begin
+2023-10-29 14:05:33.945368 - --------------------
+2023-10-29 14:05:33.945584 - Data Extraction Begin
+2023-10-29 14:05:33.964372 - Data Extraction Complete
+2023-10-29 14:05:33.964506 - Data Transformation Begin
+2023-10-29 14:05:33.970210 - Data Transformation Complete
+2023-10-29 14:05:33.970295 - Data Loading Begin
+2023-10-29 14:05:33.974870 - Data Loading Complete
+2023-10-29 14:05:33.974965 - ETL process Complete
+2023-10-29 14:05:33.975036 - --------------------
+2023-10-29 14:05:41.688815 - ETL process Begin
+2023-10-29 14:05:41.688974 - --------------------
+2023-10-29 14:05:41.689194 - Data Extraction Begin
+2023-10-29 14:05:41.713391 - Data Extraction Complete
+2023-10-29 14:05:41.713530 - Data Transformation Begin
+2023-10-29 14:05:41.717228 - Data Transformation Complete
+2023-10-29 14:05:41.717279 - Data Loading Begin
+2023-10-29 14:05:41.717914 - Data Loading Complete
+2023-10-29 14:05:41.717945 - ETL process Complete
+2023-10-29 14:05:41.717971 - --------------------
