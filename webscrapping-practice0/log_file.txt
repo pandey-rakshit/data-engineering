@@ -1,0 +1,19 @@
+2023-10-29 15:07:21.325730 - Webscrapping Practice Demo
+2023-10-29 15:07:21.325810 - -----------------------------
+2023-10-29 15:07:21.325847 - Data Extraction Begin
+2023-10-29 15:07:24.255941 - Data Extraction Completed
+2023-10-29 15:07:24.256060 - Data loading
+2023-10-29 15:07:53.015938 - Webscrapping Practice Demo
+2023-10-29 15:07:53.016037 - -----------------------------
+2023-10-29 15:07:53.016270 - Data Extraction Begin
+2023-10-29 15:07:56.656225 - Data Extraction Completed
+2023-10-29 15:07:56.656328 - Data loading
+2023-10-29 15:08:44.596206 - Webscrapping Practice Demo
+2023-10-29 15:08:44.596395 - -----------------------------
+2023-10-29 15:08:44.596429 - Data Extraction Begin
+2023-10-29 15:08:46.840413 - Data Extraction Completed
+2023-10-29 15:08:46.840488 - Data loading
+2023-10-29 15:08:46.841726 - Data loading Completed
+2023-10-29 15:08:46.841765 - Data Saving
+2023-10-29 15:08:46.844235 - Data Saving Completed
+2023-10-29 15:08:46.844269 - ----------------------------
